@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/LockFreeQueue.dir/benchmark_lockfree.cpp.o  -o LockFreeQueue 

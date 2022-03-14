@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Code/Cpp/CLion/LockFreeQueue/LockFreeQueue.h
+atomic
+-
+
+/mnt/d/Code/Cpp/CLion/LockFreeQueue/benchmark_lockfree.cpp
+iostream
+-
+vector
+-
+LockFreeQueue.h
+/mnt/d/Code/Cpp/CLion/LockFreeQueue/LockFreeQueue.h
+setting.h
+/mnt/d/Code/Cpp/CLion/LockFreeQueue/setting.h
+thread
+-
+chrono
+-
+
+/mnt/d/Code/Cpp/CLion/LockFreeQueue/setting.h
+

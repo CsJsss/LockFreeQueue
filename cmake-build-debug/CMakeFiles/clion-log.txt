@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/zsh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/Code/Cpp/CLion/LockFreeQueue/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /mnt/d/Code/Cpp/CLion/LockFreeQueue"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Code/Cpp/CLion/LockFreeQueue/cmake-build-debug
